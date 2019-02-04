@@ -1,0 +1,6 @@
+model_checkpoint_path: "C:\\Users\\arun\\Desktop\\deep_learning\\Tensorflow\\RNN\\model_save\\sentiment_1_6000.ckpt"
+all_model_checkpoint_paths: "C:\\Users\\arun\\Desktop\\deep_learning\\Tensorflow\\RNN\\model_save\\sentiment_1_2000.ckpt"
+all_model_checkpoint_paths: "C:\\Users\\arun\\Desktop\\deep_learning\\Tensorflow\\RNN\\model_save\\sentiment_1_3000.ckpt"
+all_model_checkpoint_paths: "C:\\Users\\arun\\Desktop\\deep_learning\\Tensorflow\\RNN\\model_save\\sentiment_1_4000.ckpt"
+all_model_checkpoint_paths: "C:\\Users\\arun\\Desktop\\deep_learning\\Tensorflow\\RNN\\model_save\\sentiment_1_5000.ckpt"
+all_model_checkpoint_paths: "C:\\Users\\arun\\Desktop\\deep_learning\\Tensorflow\\RNN\\model_save\\sentiment_1_6000.ckpt"
